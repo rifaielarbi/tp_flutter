@@ -1,16 +1,16 @@
-# sofamax
+# Flutter Softmax Calculator
 
-A new Flutter project.
+An intuitive Flutter app for computing softmax probabilities from a set of input values. Designed for simplicity and ease of use with a clean interface.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Enter values and calculate softmax probabilities instantly.
+- Minimalist UI with rounded inputs and highlighted results.
 
-A few resources to get you started if this is your first Flutter project:
+## Quick Start
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clone the repo, run `flutter pub get`, and then `flutter run` to start the app on your device or emulator.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+
+![Softmax Calculator Screenshot](screenshots/screen-shot.jpg)
